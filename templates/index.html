@@ -13,7 +13,8 @@
     </form>
 
     {% if jobs %}
-        <h2>Jobs in Cluster {{ selected }}</h2>
+        <h2>Jobs in Cluster {{ selected }} – {{ label }}</h2>
+
         <ul>
         {% for job in jobs %}
             <li>

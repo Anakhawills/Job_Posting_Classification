@@ -1,16 +1,17 @@
 title,company,location,experience,category
+Data Scientist I - ML,Cotiviti,United States,4-6 year,4
 Senior Data Engineer (Ingeniero de Datos Senior),Cotiviti,"Mexico City, Mexico",6-8 year,2
-Data Scientist II (Científico de Datos II),Cotiviti,"Mexico City, Mexico",6-8 year,4
+Data Scientist II (Científico de Datos II),Cotiviti,"Mexico City, Mexico",6-8 year,2
 "Senior Machine Learning Engineer, Trust & Safety",Gemini,"New York, NY, USA; Miami, FL, USA; Seattle, WA,
 USA",4-6 year,2
 "Senior Data Scientist, Trust & Safety",Gemini,"New York, NY, USA; Miami, FL, USA; Seattle, WA,
-USA",6-8 year,2
+USA",6-8 year,4
 "Senior Software Engineer, Core Services &
-Resilience (Full Stack/Backend leaning)",Viam,"New York, NY, USA",8-10 year,3
-"Senior/Staff Software Engineer, Data (Backend)",Viam,"New York, NY, USA",8-10 year,3
+Resilience (Full Stack/Backend leaning)",Viam,"New York, NY, USA",8-10 year,2
+"Senior/Staff Software Engineer, Data (Backend)",Viam,"New York, NY, USA",8-10 year,0
 "Staff Software Engineer, Infrastructure
-Engineering",Viam,"New York, NY, USA",6-8 year,3
-Data In Action Mentor (Summer 2025),SureStart,"New York, NY, USA",0-2 year,0
+Engineering",Viam,"New York, NY, USA",6-8 year,0
+Data In Action Mentor (Summer 2025),SureStart,"New York, NY, USA",0-2 year,3
 "Principal Product Manager - Growth, Poe (Remote)","Quora, Inc.",Switzerland,6-8 year,1
 "Principal Product Manager - Growth, Poe (Remote)","Quora, Inc.",Serbia,6-8 year,1
 "Principal Product Manager - Growth, Poe (Remote)","Quora, Inc.",Israel,6-8 year,1
@@ -22,4 +23,3 @@ Data In Action Mentor (Summer 2025),SureStart,"New York, NY, USA",0-2 year,0
 "Principal Product Manager - Growth, Poe (Remote)","Quora, Inc.",France,6-8 year,1
 "Principal Product Manager - Growth, Poe (Remote)","Quora, Inc.",Greece,6-8 year,1
 "Principal Product Manager - Growth, Poe (Remote)","Quora, Inc.",Portugal,6-8 year,1
-"Principal Product Manager - Growth, Poe (Remote)","Quora, Inc.",Spain,6-8 year,1
