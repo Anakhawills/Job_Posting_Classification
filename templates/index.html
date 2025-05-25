@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Cluster App</title>
+</head>
+<body>
+    <h1>🔍 Job Cluster Finder</h1>
+
+    <form method="post">
+        <label>Select Cluster Number (0 to 4):</label>
+        <input type="number" name="cluster" min="0" max="4" required>
+        <button type="submit">Find Jobs</button>
+    </form>
+
+    {% if jobs %}
+        <h2>Jobs in Cluster {{ selected }}</h2>
+        <ul>
+        {% for job in jobs %}
+            <li>
+                <strong>{{ job.title }}</strong> at {{ job.company }}  
+                ({{ job.location }} | {{ job.experience }})
+            </li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
