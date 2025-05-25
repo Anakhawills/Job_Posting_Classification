@@ -20,7 +20,7 @@ CLUSTER_LABELS = {
     4: "Backend / DevOps"
 }
 
-st.title("🔍 Job Cluster Classifier")
+st.title("Job Cluster Classifier")
 
 selected = st.selectbox("Choose a Job Cluster:", options=list(CLUSTER_LABELS.keys()),
                         format_func=lambda x: CLUSTER_LABELS[x])
