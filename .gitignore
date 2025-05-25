@@ -1,0 +1,7 @@
+.env/
+__pycache__/
+*.pyc
+*.zip
+scraper_selenium.py
+cluster_model.py
+preprocess.py
